@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Haemoglobin",
+    "Value": 13.5
+  },
+  {
+    "Name": "Packed Cell Volume",
+    "Value": 45
+  },
+  {
+    "Name": "RBC Count",
+    "Value": 5.0
+  },
+  {
+    "Name": "MCV",
+    "Value": 90
+  },
+  {
+    "Name": "MCH",
+    "Value": 30
+  },
+  {
+    "Name": "MCHC",
+    "Value": 34
+  },
+  {
+    "Name": "Platelet Count",
+    "Value": 250000
+  },
+  {
+    "Name": "MPV",
+    "Value": 10
+  },
+  {
+    "Name": "RDW",
+    "Value": 13
+  },
+  {
+    "Name": "Differential Neutrophils",
+    "Value": 55
+  },
+  {
+    "Name": "Lymphocytes",
+    "Value": 35
+  },
+  {
+    "Name": "Monocytes",
+    "Value": 6
+  },
+  {
+    "Name": "Eosinophils",
+    "Value": 3
+  },
+  {
+    "Name": "Basophils",
+    "Value": 1
+  }
+]
